@@ -1,0 +1,393 @@
+PWD c:\Users\VIVRE\Desktop\Dulcinea\latex\cs479
+INPUT C:\Users\VIVRE\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\VIVRE\Desktop\Dulcinea\latex\cs479\cs479.tex
+OUTPUT c:\Users\VIVRE\Desktop\Dulcinea\latex\cs479\cs479.log
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\preprint\fullpage.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\preprint\fullpage.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\bookmark\bookmark.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\bookmark\bookmark.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\bitset\bitset.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\bitset\bitset.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\bookmark\bkm-pdftex.def
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\bookmark\bkm-pdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\mathtools\mathtools.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\mathtools\mathtools.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\mathtools\mhsetup.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\mathtools\mhsetup.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcolorbox.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcolorbox.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\ms\everyshi.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\ms\everyshi.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfint.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\environ\environ.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\environ\environ.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbraster.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbskins.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbskinsjigsaw.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbbreakable.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbhooks.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbtheorems.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbfitting.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbxparse.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcblistingsutf8.code.tex
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\listingsutf8\listingsutf8.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\listingsutf8\listingsutf8.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\stringenc\stringenc.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\stringenc\stringenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcblistings.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcblistingscore.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbprocessing.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbexternal.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbmagazine.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbvignette.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfadings.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfadings.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
+OUTPUT c:\Users\VIVRE\Desktop\Dulcinea\latex\cs479\cs479.pdf
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbposter.code.tex
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\ntheorem\ntheorem.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\ntheorem\ntheorem.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\ntheorem\ntheorem.std
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\ntheorem\ntheorem.std
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\latexsym.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\latexsym.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\physics\physics.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\physics\physics.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\pst-tree\pst-tree.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\pst-tree\pst-tree.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\pstricks\pstricks.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\pstricks\pstricks.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\pst-xkey.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\pst-xkey.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\pstricks\pstricks.tex
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\pstricks\pstricks.tex
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\pstricks\pst-fp.tex
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\pstricks\pstricks.con
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\pstricks\pst-fp.tex
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\pstricks\pst-fp.tex
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-tree\pst-tree.tex
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-tree\pst-tree.tex
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-node\pst-node.tex
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\tabu\tabu.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\tabu\tabu.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\varwidth\varwidth.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\varwidth\varwidth.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\float\float.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\float\float.sty
+INPUT c:\Users\VIVRE\Desktop\Dulcinea\latex\cs479\cs479.aux
+INPUT c:\Users\VIVRE\Desktop\Dulcinea\latex\cs479\cs479.aux
+OUTPUT c:\Users\VIVRE\Desktop\Dulcinea\latex\cs479\cs479.aux
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\refcount\refcount.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\latex\refcount\refcount.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\VIVRE\AppData\Roaming\MiKTeX\2.9\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ulasy.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ulasy.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\latex-fonts\lasy10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\latex-fonts\lasy8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\latex-fonts\lasy6.tfm
+INPUT C:\Users\VIVRE\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT c:\Users\VIVRE\Desktop\Dulcinea\latex\cs479\cs479.toc
+INPUT c:\Users\VIVRE\Desktop\Dulcinea\latex\cs479\cs479.toc
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\latex-fonts\lasy10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\latex-fonts\lasy7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\latex-fonts\lasy5.tfm
+OUTPUT c:\Users\VIVRE\Desktop\Dulcinea\latex\cs479\cs479.toc
+INPUT c:\Users\VIVRE\Desktop\Dulcinea\latex\cs479\cs479.lof
+INPUT c:\Users\VIVRE\Desktop\Dulcinea\latex\cs479\cs479.lof
+OUTPUT c:\Users\VIVRE\Desktop\Dulcinea\latex\cs479\cs479.lof
+INPUT c:\Users\VIVRE\Desktop\Dulcinea\latex\cs479\cs479.lot
+INPUT c:\Users\VIVRE\Desktop\Dulcinea\latex\cs479\cs479.lot
+OUTPUT c:\Users\VIVRE\Desktop\Dulcinea\latex\cs479\cs479.lot
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmti10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmti7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmti7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbxti10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbxti10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbxti10.tfm
+OUTPUT c:\Users\VIVRE\Desktop\Dulcinea\latex\cs479\cs479.thm
+INPUT c:\Users\VIVRE\Desktop\Dulcinea\latex\cs479\cs479.aux
+INPUT C:\Users\VIVRE\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\VIVRE\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi5.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi5.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy5.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy5.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti7.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti7.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\symbols\msam10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\symbols\msam10.pfb

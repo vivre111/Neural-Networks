@@ -1,0 +1,41 @@
+\contentsline {section}{\numberline {1}Neurons}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}nueron membrane potential}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Action Potential}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Hodgkin-Huxley Model}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Leaky Integrate-and-Fire (LIF) Model}{5}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}LIF Firing Rate}{6}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}sigmoid neron}{6}{subsection.1.6}%
+\contentsline {section}{\numberline {2}how neuron interact}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}synapse}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}spike train}{7}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}connection weight}{7}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}implementing connections between spiking neurons}{7}{subsection.2.4}%
+\contentsline {section}{\numberline {3}an overview}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}supervised learning}{8}{subsection.3.1}%
+\contentsline {section}{\numberline {4}universal approximation theorem}{9}{section.4}%
+\contentsline {section}{\numberline {5}loss function}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}coess-entropy (bernoulli cross entropy)}{9}{subsection.5.1}%
+\contentsline {section}{\numberline {6}gradient descent learning}{10}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Error Backpropagation}{10}{subsection.6.1}%
+\contentsline {section}{\numberline {7}combatting overfitting}{11}{section.7}%
+\contentsline {subsection}{\numberline {7.1}regularization}{11}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}data augumentation}{12}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}dropout}{12}{subsection.7.3}%
+\contentsline {section}{\numberline {8}vanishing gradient problem}{12}{section.8}%
+\contentsline {section}{\numberline {9}stochasstic gradinet descent}{12}{section.9}%
+\contentsline {section}{\numberline {10}enhacing optimization}{12}{section.10}%
+\contentsline {section}{\numberline {11}autocoder}{13}{section.11}%
+\contentsline {section}{\numberline {12}convolutional neural network(CNN)}{13}{section.12}%
+\contentsline {section}{\numberline {13}batch normalization}{13}{section.13}%
+\contentsline {section}{\numberline {14}hopefield }{13}{section.14}%
+\contentsline {section}{\numberline {15}variational autoencoders}{14}{section.15}%
+\contentsline {section}{\numberline {16}population coding}{15}{section.16}%
+\contentsline {section}{\numberline {17}transformation}{15}{section.17}%
+\contentsline {section}{\numberline {18}network dynamics}{16}{section.18}%
+\contentsline {section}{\numberline {19}recurrent networks}{16}{section.19}%
+\contentsline {section}{\numberline {20}long short-term memory}{17}{section.20}%
+\contentsline {section}{\numberline {21}adversarial attack}{17}{section.21}%
+\contentsline {section}{\numberline {22}adversarial defense}{17}{section.22}%
+\contentsline {section}{\numberline {23}generative adversatial network(GAN)}{18}{section.23}%
+\contentsline {section}{\numberline {24}Vector embeddings}{18}{section.24}%
+\contentsline {section}{\numberline {25}predictive coding}{18}{section.25}%
